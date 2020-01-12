@@ -7,3 +7,6 @@
 #### Dependencies:
 `pacman -S qemu-system-arm qemu-arch-extra`
 
+
+## Start
+`./start-armv6.sh`
